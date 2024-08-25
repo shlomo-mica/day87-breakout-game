@@ -1,1 +1,1 @@
-first version of the game without the space ships 
+almost final version of the game
